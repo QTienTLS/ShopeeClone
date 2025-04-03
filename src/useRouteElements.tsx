@@ -1,4 +1,4 @@
-import React, { lazy, Suspense } from 'react'
+import { lazy, Suspense } from 'react'
 import { useRoutes } from 'react-router-dom'
 import AuthenticateLayout from './layouts/AuthenticateLayout'
 
